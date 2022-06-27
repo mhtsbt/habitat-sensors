@@ -1,1 +1,1 @@
-import * from region_sensor
+from region_sensor import *
